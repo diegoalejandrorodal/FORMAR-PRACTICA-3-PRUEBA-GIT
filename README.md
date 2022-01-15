@@ -15,7 +15,7 @@ ya tengamos una cuenta, simplemente ingresamos con nuestro usuario.
 Tener Git instalado en la computadora: para esto deberemos seguir la guía de instalación
 que se encuentra disponible en el campus o en https://git-scm.com/downloads.
 
-1
+
 
 ## Consignas
 Durante las consignas nos referiremos a los participantes como A y B.
@@ -42,7 +42,7 @@ repositorio.
 Una vez que el participante A haya subido el primer archivo, el participante B
 deberá clonar el repositorio remoto creado por el participante A.
 
-2
+
 
 5. Trabajar en archivos diferentes (parte 1)
 Ambos participantes deberán crear 3 archivos cada uno. Los archivos deben tener
@@ -70,7 +70,7 @@ sincronizarlo con el repositorio remoto.
 El primer participante que sincronice el archivo podrá hacerlo sin problema. El segundo
 recibirá una notificación de que existen cambios en el repositorio remoto.
 
-3
+
 
 ¡Ahora deben decidir de qué manera resolverán el conflicto!
 ● Dejando solo el contenido del participante A.
